@@ -1,0 +1,9 @@
+C:\Users\vipth\source\repos\Client_Server\Client\bin\Debug\Client.exe.config
+C:\Users\vipth\source\repos\Client_Server\Client\bin\Debug\Client.exe
+C:\Users\vipth\source\repos\Client_Server\Client\bin\Debug\Client.pdb
+C:\Users\vipth\source\repos\Client_Server\Client\obj\Debug\Client.Client.resources
+C:\Users\vipth\source\repos\Client_Server\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\vipth\source\repos\Client_Server\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\vipth\source\repos\Client_Server\Client\obj\Debug\Client.exe
+C:\Users\vipth\source\repos\Client_Server\Client\obj\Debug\Client.pdb
+C:\Users\vipth\source\repos\Client_Server\Client\obj\Debug\Client.csprojAssemblyReference.cache
